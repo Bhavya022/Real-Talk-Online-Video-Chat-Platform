@@ -104,13 +104,16 @@ const RoomRouter = express.Router()
 1. Shaikh Shahbaz(Team Lead)
    >    - e-Mail: shaikhshahbaz4022@gmail.com
    >    - GitHub: https://github.com/shaikhshahbaz4022
-
-2. Aman Kashyap
+2. Bhavya Khatri
+    >  -e-mail: dnd88778@gmail.com
+    >  -GitHub: https://github.com/Bhavya022
+ 
+4. Aman Kashyap
    >    - e-Mail: aman1722kashyap@gmail.com
    >    - GitHub: https://github.com/Aman1722
 
 
-3. MD Haroon Hussain
+5. MD Haroon Hussain
    >    - e-Mail: haroonhussain97@gmail.com
    >    - GitHub: https://github.com/mdharoonhussain 
 
